@@ -26,7 +26,7 @@ apm install --packages-file ~/.atom/package.list
 scrollPastEnd it's activated to avoid looking at the bottom of the screen when
 you’re editing the last few lines of a file.
 
-showInvisibles it's activated to help to differenciate between spaces, tabs and
+showInvisibles it's activated to help to differentiate between spaces, tabs and
 line feeds.
 
 ## General Packages
