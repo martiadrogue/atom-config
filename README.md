@@ -9,7 +9,7 @@ usually named, branch's purpose, slash and name of the environment in a url's
 notation, for example, environment/php.
 
 Packages used are in package.list file, you can replace that list for your own
-by calling
+by calling.
 
 ```shell
 apm list --installed --bare > ~/.atom/package.list
