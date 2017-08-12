@@ -4,6 +4,10 @@ Stunning backup of atom's configuration to work faster in the most unbelievable
 environment. A copy of my ~/.atom/ directory, there is all config files to code
 in php, javascript, etc.
 
+Each environment has its own branch. Theses branch are called like features are
+usually named, branch's purpose, slash and name of the environment in a url's
+notation, for example, environment/php.
+
 Packages used are in package.list file, you can replace that list for your own
 by calling
 
