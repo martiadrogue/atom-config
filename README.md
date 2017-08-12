@@ -40,3 +40,10 @@ faster.
 
 It's activated. It with that config removes repeated steps on the development
 process.
+
+## PHP Packages
+
+### Language PHP
+
+Add four space to represent a tab, PSR standards says each we must use four
+spaces instead of tabs and each.
