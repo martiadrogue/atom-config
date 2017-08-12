@@ -45,5 +45,5 @@ process.
 
 ### Language PHP
 
-Add four space to represent a tab, PSR standards says we must use four spaces
-instead of tabs and each.
+Add four space to represent a tab, PSR standards says each we must use four
+spaces instead of tabs and each.
