@@ -8,6 +8,8 @@
     showInvisibles: true
   "exception-reporting":
     userId: "94a3e1b8-2052-4671-a4fd-697bef72291a"
+  welcome:
+    showOnStartup: false
 ".html.php.text":
   editor:
     tabLength: 4
