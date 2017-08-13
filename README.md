@@ -40,3 +40,9 @@ faster.
 
 It's activated. It with that config removes repeated steps on the development
 process.
+
+## Config Packages
+
+### Language Puppet
+
+Add syntax highlighting and snippets to Puppet files in Atom.
