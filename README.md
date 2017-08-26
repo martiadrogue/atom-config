@@ -67,3 +67,8 @@ Base package to show intentions based in Atom.
 
 Add four space to represent a tab, PSR standards says we must use four spaces
 instead of tabs.
+
+### Linter PHP
+
+This package will lint PHP files and embedded PHP within HTML files in Atom
+through php -l.
