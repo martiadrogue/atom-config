@@ -44,3 +44,19 @@ process.
 ### Tree View Autoresize
 
 Autoresize the tree view when open/close folders.
+
+### Linter
+
+Base for language linters.
+
+### Linter UI Default
+
+The default UI for linter.
+
+### Busy Signal
+
+Show your package is performing a task.
+
+### Intentions
+
+Base package to show intentions based in Atom.

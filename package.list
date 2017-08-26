@@ -1,2 +1,7 @@
+busy-signal@1.4.3
+intentions@1.1.5
+language-puppet@0.23.0
+linter@2.2.0
+linter-ui-default@1.6.7
 minimap@4.29.6
 tree-view-autoresize@2.2.0
