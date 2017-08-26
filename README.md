@@ -45,9 +45,25 @@ process.
 
 Autoresize the tree view when open/close folders.
 
+### Linter
+
+Base for language linters.
+
+### Linter UI Default
+
+The default UI for linter.
+
+### Busy Signal
+
+Show your package is performing a task.
+
+### Intentions
+
+Base package to show intentions based in Atom.
+
 ## PHP Packages
 
 ### Language PHP
 
 Add four space to represent a tab, PSR standards says we must use four spaces
-instead of tabs and each.
+instead of tabs.
