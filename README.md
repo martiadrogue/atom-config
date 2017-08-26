@@ -41,6 +41,10 @@ faster.
 It's activated. It with that config removes repeated steps on the development
 process.
 
+### Tree View Autoresize
+
+Autoresize the tree view when open/close folders.
+
 ## PHP Packages
 
 ### Language PHP
